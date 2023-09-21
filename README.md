@@ -1,3 +1,3 @@
 # Pomodoro
 
-## Um novo Aplicativo de pomodoro feito em flutter.
+## Um novo Aplicativo pomodoro feito em flutter.
